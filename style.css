@@ -420,14 +420,5 @@ textarea {
 	border-radius: 8px;
 	box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
   }
- @media (max-width: 768px) {
-    .width-50, .width-33 {
-        width: 100%;
-    }
-    nav a {
-        display: block;
-        margin-bottom: 10px;
-    }
-}
-
+ 
   
